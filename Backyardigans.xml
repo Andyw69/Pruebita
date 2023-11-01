@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<backyardigans>
+    <character>
+        <name>Pablo</name>
+        <color>Blue</color>
+    </character>
+    <character>
+        <name>Tyrone</name>
+        <color>Orange</color>
+    </character>
+    <character>
+        <name>Uniqua</name>
+        <color>Pink</color>
+    </character>
+    <character>
+        <name>Tasha</name>
+        <color>Yellow</color>
+    </character>
+    <character>
+        <name>Austin</name>
+        <color>Purple</color>
+    </character>
+</backyardigans>
