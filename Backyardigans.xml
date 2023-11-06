@@ -1,23 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <backyardigans>
-    <character>
-        <name>Pablo</name>
+    <caracter>
+        <nombre>Pablo</nombre>
         <color>Blue</color>
-    </character>
-    <character>
-        <name>Tyrone</name>
+        <actividad>Detective</actividad>
+        <Poder_Especial>Imagination</Poder_Especial>
+        <ComidaFavorita>Peanut Butter Sandwiches</ComidaFavorita>
+    </caracter>
+    <caracter>
+        <nombre>Tyrone</nombre>
         <color>Orange</color>
-    </character>
-    <character>
-        <name>Uniqua</name>
+        <actividad>Athlete</actividad>
+        <Poder_Especial>Fuerza</Poder_Especial>
+        <ComidaFavorita>C</ComidaFavorita>
+    </caracter>
+    <caracter>
+        <nombre>Uniqua</nombre>
         <color>Pink</color>
-    </character>
-    <character>
-        <name>Tasha</name>
+        <actividad>Adventurer</actividad>
+        <Poder_Especial>Flexibility</Poder_Especial>
+        <ComidaFavorita>Ice Cream</ComidaFavorita>
+    </caracter>
+    <caracter>
+        <nombre>Tasha</nombre>
         <color>Yellow</color>
-    </character>
-    <character>
-        <name>Austin</name>
+        <actividad>Scientist</actividad>
+        <Poder_Especial>Knowledge</Poder_Especial>
+        <ComidaFavorita>Apples</ComidaFavorita>
+    </caracter>
+    <caracter>
+        <nombre>Austin</nombre>
         <color>Purple</color>
-    </character>
+        <actividad>Musician</actividad>
+        <Poder_Especial>Musical Talent</Poder_Especial>
+        <ComidaFavorita>Pizza</ComidaFavorita>
+    </caracter>
 </backyardigans>
